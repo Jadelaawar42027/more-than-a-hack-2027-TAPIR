@@ -1,0 +1,6 @@
+Barcelona - 24 track slots
+Atletic Club - 22 track slots
+11185 owner: None | state: None
+12000 owner: None | state: None
+15000 owner: None | state: None
+frames with owner: 0 | frames with state: 0 | total: 199319
